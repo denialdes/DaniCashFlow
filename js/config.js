@@ -1,4 +1,4 @@
 // Isi nilai ini setelah deploy backend (lihat README). Bukan rahasia.
 window.APP_CONFIG = {
-  API_URL: 'GANTI_DENGAN_URL_WEB_APP_APPS_SCRIPT', // https://script.google.com/macros/s/AKfy.../exec
+  API_URL: 'https://script.google.com/macros/s/AKfycbwtpY5utnE9T1tbIiIPRHZ7daYwEqcFxVfEJ9Wmwhd-ONMkMMV660h5dXAULkPAwHvTUw/exec', // https://script.google.com/macros/s/AKfy.../exec
 };
